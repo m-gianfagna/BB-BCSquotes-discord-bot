@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Souce code checkout
+    - name: Source code checkout
       uses: actions/checkout@v4
 
     - name: Python configuration
